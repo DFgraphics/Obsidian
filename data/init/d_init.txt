@@ -76,7 +76,7 @@ Alter these options to control how aggressively your dwarves place objects in a 
 
 Change this to YES to disallow pets from coffin burial as the default option.
 
-[COFFIN_NO_PETS_DEFAULT:NO]
+[COFFIN_NO_PETS_DEFAULT:YES]
 
 Use these to set the color of wounded body parts.  The format is <foreground color>:<background color>:<brightness>.
 
@@ -144,10 +144,10 @@ Tiles for the parts of trees.
 [TREE_BRANCHES_DEAD:245]
 [TREE_SMOOTH_BRANCHES:245]
 [TREE_SMOOTH_BRANCHES_DEAD:245]
-[TREE_TRUNK_PILLAR:10]
-[TREE_TRUNK_PILLAR_DEAD:10]
-[TREE_CAP_PILLAR:10]
-[TREE_CAP_PILLAR_DEAD:10]
+[TREE_TRUNK_PILLAR:'O']
+[TREE_TRUNK_PILLAR_DEAD:'O']
+[TREE_CAP_PILLAR:'O']
+[TREE_CAP_PILLAR_DEAD:'O']
 [TREE_TRUNK_N:205]
 [TREE_TRUNK_S:205]
 [TREE_TRUNK_N_DEAD:205]
