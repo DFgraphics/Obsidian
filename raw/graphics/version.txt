@@ -1,4 +1,4 @@
-
+v0.43.03 - modifying to synchronize with Phoebus critters. Adding child pond turtle man.
 [Version:Obsidian:0.40.11] - unofficial update by fricy
 Raws based on phoebus 40.11 merged with obisidian 0.8 
 Replaced Tile 5 (flowers), 129 (saplings), 244 and 245 (branches) fom Phoebus Tileset
