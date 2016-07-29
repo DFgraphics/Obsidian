@@ -1,4 +1,5 @@
-These are the display colors in RGB.  The game is actually displaying extended ASCII characters in OpenGL, so you can modify the colors.
+"Natural" scheme
+This mix softens the glaring colors of the original to earthtones.
 
 [BLACK_R:0]
 [BLACK_G:0]
