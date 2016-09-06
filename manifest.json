@@ -4,5 +4,6 @@
     "df_min_version": "0.43.05",
     "df_max_version": "0.43.05",
     "title": "Obsidian 16px",
+    "folder_prefix": "Obsidian",
     "tooltip": "Focused on a stylised medieval feel, Obsidian is \na beautiful example of pixel art at its best."
 }
